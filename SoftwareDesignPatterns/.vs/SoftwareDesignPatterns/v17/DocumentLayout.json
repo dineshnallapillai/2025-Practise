@@ -1,0 +1,914 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\behavioural pattern\\template\\template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\behavioural pattern\\template\\template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\creational pattern\\singleton\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\creational pattern\\singleton\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\behavioural pattern\\iterator\\iterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\behavioural pattern\\iterator\\iterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\creational pattern\\factorymethod\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\creational pattern\\factorymethod\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\creational pattern\\factorymethod\\notifierfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\creational pattern\\factorymethod\\notifierfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\behavioural pattern\\template\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\behavioural pattern\\template\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\behavioural pattern\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\behavioural pattern\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\behavioural pattern\\strategy\\strategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\behavioural pattern\\strategy\\strategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\behavioural pattern\\strategy\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\behavioural pattern\\strategy\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\behavioural pattern\\statepattern\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\behavioural pattern\\statepattern\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\behavioural pattern\\statepattern\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\behavioural pattern\\statepattern\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\behavioural pattern\\observer\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\behavioural pattern\\observer\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\behavioural pattern\\memento\\memento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\behavioural pattern\\memento\\memento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\behavioural pattern\\memento\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\behavioural pattern\\memento\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\behavioural pattern\\mediator\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\behavioural pattern\\mediator\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\behavioural pattern\\mediator\\mediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\behavioural pattern\\mediator\\mediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\behavioural pattern\\iterator\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\behavioural pattern\\iterator\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\behavioural pattern\\command\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\behavioural pattern\\command\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\behavioural pattern\\command\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\behavioural pattern\\command\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\behavioural pattern\\chain of responsilblity\\cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\behavioural pattern\\chain of responsilblity\\cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\behavioural pattern\\chain of responsilblity\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\behavioural pattern\\chain of responsilblity\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\structural pattern\\proxy\\proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\structural pattern\\proxy\\proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\structural pattern\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\structural pattern\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\structural pattern\\flyweight\\flyweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\structural pattern\\flyweight\\flyweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\structural pattern\\flyweight\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\structural pattern\\flyweight\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\structural pattern\\facade\\facade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\structural pattern\\facade\\facade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\structural pattern\\facade\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\structural pattern\\facade\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\structural pattern\\decorator\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\structural pattern\\decorator\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\structural pattern\\decorator\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\structural pattern\\decorator\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\structural pattern\\composite\\composite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\structural pattern\\composite\\composite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\structural pattern\\bridge\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\structural pattern\\bridge\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\structural pattern\\bridge\\bridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\structural pattern\\bridge\\bridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\structural pattern\\composite\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\structural pattern\\composite\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\structural pattern\\adapter\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\structural pattern\\adapter\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\structural pattern\\adapter\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\structural pattern\\adapter\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\creational pattern\\prototype\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\creational pattern\\prototype\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\creational pattern\\builder\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\creational pattern\\builder\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\creational pattern\\builder\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\creational pattern\\builder\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\creational pattern\\abstractfactory\\abstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\creational pattern\\abstractfactory\\abstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\creational pattern\\factorymethod\\smsnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\creational pattern\\factorymethod\\smsnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\creational pattern\\abstractfactory\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\creational pattern\\abstractfactory\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\creational pattern\\factorymethod\\emailnotifierfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\creational pattern\\factorymethod\\emailnotifierfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\creational pattern\\factorymethod\\inotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\creational pattern\\factorymethod\\inotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\creational pattern\\factorymethod\\emailnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\creational pattern\\factorymethod\\emailnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\creational pattern\\singleton\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\creational pattern\\singleton\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\creational pattern\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\creational pattern\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\cheatsheat.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\cheatsheat.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\softwaredesignpatterns.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\softwaredesignpatterns.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\behavioural pattern\\observer\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\behavioural pattern\\observer\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\structural pattern\\proxy\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\structural pattern\\proxy\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\creational pattern\\factorymethod\\clientcode\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\creational pattern\\factorymethod\\clientcode\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|c:\\users\\310245646\\source\\repos\\softwaredesignpatterns\\softwaredesignpatterns\\creational pattern\\factorymethod\\smsnotifierfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177259B6-85F8-496B-841C-11D3ACE9DFA0}|SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj|solutionrelative:softwaredesignpatterns\\creational pattern\\factorymethod\\smsnotifierfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Creational Pattern\\FactoryMethod\\ReadMe.txt",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Creational Pattern\\FactoryMethod\\ReadMe.txt",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Creational Pattern\\FactoryMethod\\ReadMe.txt",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Creational Pattern\\FactoryMethod\\ReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-10T06:01:41.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\Strategy\\ReadMe.txt",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Behavioural Pattern\\Strategy\\ReadMe.txt",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\Strategy\\ReadMe.txt",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Behavioural Pattern\\Strategy\\ReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-07T12:32:32.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Strategy.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\Strategy\\Strategy.cs",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Behavioural Pattern\\Strategy\\Strategy.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\Strategy\\Strategy.cs",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Behavioural Pattern\\Strategy\\Strategy.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAA0wDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:33:55.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\ReadMe.txt",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Behavioural Pattern\\ReadMe.txt",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\ReadMe.txt",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Behavioural Pattern\\ReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-06T09:19:35.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\Template\\ReadMe.txt",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Behavioural Pattern\\Template\\ReadMe.txt",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\Template\\ReadMe.txt",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Behavioural Pattern\\Template\\ReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-07T13:38:21.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Template.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\Template\\Template.cs",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Behavioural Pattern\\Template\\Template.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\Template\\Template.cs",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Behavioural Pattern\\Template\\Template.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:43:53.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Iterator.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\Iterator\\Iterator.cs",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Behavioural Pattern\\Iterator\\Iterator.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\Iterator\\Iterator.cs",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Behavioural Pattern\\Iterator\\Iterator.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwBsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T11:16:11.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Creational Pattern\\Singleton\\Logger.cs",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Creational Pattern\\Singleton\\Logger.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Creational Pattern\\Singleton\\Logger.cs",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Creational Pattern\\Singleton\\Logger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:37:46.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\StatePattern\\ReadMe.txt",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Behavioural Pattern\\StatePattern\\ReadMe.txt",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\StatePattern\\ReadMe.txt",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Behavioural Pattern\\StatePattern\\ReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-07T13:29:09.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotifierFactory.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Creational Pattern\\FactoryMethod\\NotifierFactory.cs",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Creational Pattern\\FactoryMethod\\NotifierFactory.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Creational Pattern\\FactoryMethod\\NotifierFactory.cs",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Creational Pattern\\FactoryMethod\\NotifierFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:52:33.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\StatePattern\\State.cs",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Behavioural Pattern\\StatePattern\\State.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\StatePattern\\State.cs",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Behavioural Pattern\\StatePattern\\State.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:30:21.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Observer.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\Observer\\Observer.cs",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Behavioural Pattern\\Observer\\Observer.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\Observer\\Observer.cs",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Behavioural Pattern\\Observer\\Observer.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAiwCEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:24:04.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Memento.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\Memento\\Memento.cs",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Behavioural Pattern\\Memento\\Memento.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\Memento\\Memento.cs",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Behavioural Pattern\\Memento\\Memento.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T11:26:36.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\Memento\\ReadMe.txt",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Behavioural Pattern\\Memento\\ReadMe.txt",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\Memento\\ReadMe.txt",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Behavioural Pattern\\Memento\\ReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-06T11:25:12.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\Mediator\\ReadMe.txt",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Behavioural Pattern\\Mediator\\ReadMe.txt",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\Mediator\\ReadMe.txt",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Behavioural Pattern\\Mediator\\ReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-07T13:48:23.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Mediator.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\Mediator\\Mediator.cs",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Behavioural Pattern\\Mediator\\Mediator.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\Mediator\\Mediator.cs",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Behavioural Pattern\\Mediator\\Mediator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:50:42.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\Iterator\\ReadMe.txt",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Behavioural Pattern\\Iterator\\ReadMe.txt",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\Iterator\\ReadMe.txt",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Behavioural Pattern\\Iterator\\ReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-06T11:15:08.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\Command\\Command.cs",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Behavioural Pattern\\Command\\Command.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\Command\\Command.cs",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Behavioural Pattern\\Command\\Command.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAiwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:47:15.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\Command\\ReadMe.txt",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Behavioural Pattern\\Command\\ReadMe.txt",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\Command\\ReadMe.txt",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Behavioural Pattern\\Command\\ReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-06T10:44:17.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "COR.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\Chain of Responsilblity\\COR.cs",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Behavioural Pattern\\Chain of Responsilblity\\COR.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\Chain of Responsilblity\\COR.cs",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Behavioural Pattern\\Chain of Responsilblity\\COR.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAswDcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:28:43.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\Chain of Responsilblity\\ReadMe.txt",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Behavioural Pattern\\Chain of Responsilblity\\ReadMe.txt",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\Chain of Responsilblity\\ReadMe.txt",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Behavioural Pattern\\Chain of Responsilblity\\ReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-06T09:22:40.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Proxy.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Structural Pattern\\Proxy\\Proxy.cs",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Structural Pattern\\Proxy\\Proxy.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Structural Pattern\\Proxy\\Proxy.cs",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Structural Pattern\\Proxy\\Proxy.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAwwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:14:30.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Structural Pattern\\ReadMe.txt",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Structural Pattern\\ReadMe.txt",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Structural Pattern\\ReadMe.txt",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Structural Pattern\\ReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-06T06:00:46.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Flyweight.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Structural Pattern\\Flyweight\\Flyweight.cs",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Structural Pattern\\Flyweight\\Flyweight.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Structural Pattern\\Flyweight\\Flyweight.cs",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Structural Pattern\\Flyweight\\Flyweight.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwB0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:06:48.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Structural Pattern\\Flyweight\\ReadMe.txt",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Structural Pattern\\Flyweight\\ReadMe.txt",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Structural Pattern\\Flyweight\\ReadMe.txt",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Structural Pattern\\Flyweight\\ReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-07T14:05:34.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Facade.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Structural Pattern\\Facade\\Facade.cs",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Structural Pattern\\Facade\\Facade.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Structural Pattern\\Facade\\Facade.cs",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Structural Pattern\\Facade\\Facade.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwCYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T07:26:37.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Structural Pattern\\Facade\\ReadMe.txt",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Structural Pattern\\Facade\\ReadMe.txt",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Structural Pattern\\Facade\\ReadMe.txt",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Structural Pattern\\Facade\\ReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-06T07:24:42.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Decorator.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Structural Pattern\\Decorator\\Decorator.cs",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Structural Pattern\\Decorator\\Decorator.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Structural Pattern\\Decorator\\Decorator.cs",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Structural Pattern\\Decorator\\Decorator.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwCEAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T07:01:23.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Structural Pattern\\Decorator\\ReadMe.txt",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Structural Pattern\\Decorator\\ReadMe.txt",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Structural Pattern\\Decorator\\ReadMe.txt",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Structural Pattern\\Decorator\\ReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-06T07:00:37.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Composite.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Structural Pattern\\Composite\\Composite.cs",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Structural Pattern\\Composite\\Composite.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Structural Pattern\\Composite\\Composite.cs",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Structural Pattern\\Composite\\Composite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T06:52:41.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Structural Pattern\\Bridge\\ReadMe.txt",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Structural Pattern\\Bridge\\ReadMe.txt",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Structural Pattern\\Bridge\\ReadMe.txt",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Structural Pattern\\Bridge\\ReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-06T06:20:09.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Bridge.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Structural Pattern\\Bridge\\Bridge.cs",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Structural Pattern\\Bridge\\Bridge.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Structural Pattern\\Bridge\\Bridge.cs",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Structural Pattern\\Bridge\\Bridge.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwCEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T06:46:04.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Structural Pattern\\Composite\\ReadMe.txt",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Structural Pattern\\Composite\\ReadMe.txt",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Structural Pattern\\Composite\\ReadMe.txt",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Structural Pattern\\Composite\\ReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-06T06:51:31.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Adapter.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Structural Pattern\\Adapter\\Adapter.cs",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Structural Pattern\\Adapter\\Adapter.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Structural Pattern\\Adapter\\Adapter.cs",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Structural Pattern\\Adapter\\Adapter.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T06:04:02.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Structural Pattern\\Adapter\\ReadMe.txt",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Structural Pattern\\Adapter\\ReadMe.txt",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Structural Pattern\\Adapter\\ReadMe.txt",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Structural Pattern\\Adapter\\ReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-06T06:03:10.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Creational Pattern\\Prototype\\ReadMe.txt",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Creational Pattern\\Prototype\\ReadMe.txt",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Creational Pattern\\Prototype\\ReadMe.txt",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Creational Pattern\\Prototype\\ReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-06T05:30:13.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Builder.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Creational Pattern\\Builder\\Builder.cs",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Creational Pattern\\Builder\\Builder.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Creational Pattern\\Builder\\Builder.cs",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Creational Pattern\\Builder\\Builder.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswEMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:08:23.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Creational Pattern\\Builder\\ReadMe.txt",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Creational Pattern\\Builder\\ReadMe.txt",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Creational Pattern\\Builder\\ReadMe.txt",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Creational Pattern\\Builder\\ReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-06T05:06:22.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AbstractFactory.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Creational Pattern\\AbstractFactory\\AbstractFactory.cs",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Creational Pattern\\AbstractFactory\\AbstractFactory.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Creational Pattern\\AbstractFactory\\AbstractFactory.cs",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Creational Pattern\\AbstractFactory\\AbstractFactory.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAwE0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:31:49.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SmsNotifier.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Creational Pattern\\FactoryMethod\\SmsNotifier.cs",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Creational Pattern\\FactoryMethod\\SmsNotifier.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Creational Pattern\\FactoryMethod\\SmsNotifier.cs",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Creational Pattern\\FactoryMethod\\SmsNotifier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:51:55.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Creational Pattern\\AbstractFactory\\ReadMe.txt",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Creational Pattern\\AbstractFactory\\ReadMe.txt",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Creational Pattern\\AbstractFactory\\ReadMe.txt",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Creational Pattern\\AbstractFactory\\ReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-05T11:07:41.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EmailNotifierFactory.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Creational Pattern\\FactoryMethod\\EmailNotifierFactory.cs",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Creational Pattern\\FactoryMethod\\EmailNotifierFactory.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Creational Pattern\\FactoryMethod\\EmailNotifierFactory.cs",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Creational Pattern\\FactoryMethod\\EmailNotifierFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:53:43.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "INotifier.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Creational Pattern\\FactoryMethod\\INotifier.cs",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Creational Pattern\\FactoryMethod\\INotifier.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Creational Pattern\\FactoryMethod\\INotifier.cs",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Creational Pattern\\FactoryMethod\\INotifier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:49:49.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "EmailNotifier.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Creational Pattern\\FactoryMethod\\EmailNotifier.cs",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Creational Pattern\\FactoryMethod\\EmailNotifier.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Creational Pattern\\FactoryMethod\\EmailNotifier.cs",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Creational Pattern\\FactoryMethod\\EmailNotifier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:50:30.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Readme.txt",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Creational Pattern\\Singleton\\Readme.txt",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Creational Pattern\\Singleton\\Readme.txt",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Creational Pattern\\Singleton\\Readme.txt",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Creational Pattern\\Singleton\\Readme.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-05T10:17:18.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Creational Pattern\\ReadMe.txt",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Creational Pattern\\ReadMe.txt",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Creational Pattern\\ReadMe.txt",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Creational Pattern\\ReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-07T14:19:43.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CheatSheat.txt",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\CheatSheat.txt",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\CheatSheat.txt",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\CheatSheat.txt",
+              "RelativeToolTip": "SoftwareDesignPatterns\\CheatSheat.txt",
+              "ViewState": "AQIAAPIAAAAAAAAAAAAowBIBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-07T14:12:44.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SoftwareDesignPatterns",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj",
+              "RelativeToolTip": "SoftwareDesignPatterns\\SoftwareDesignPatterns.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-05T11:07:08.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\Observer\\ReadMe.txt",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Behavioural Pattern\\Observer\\ReadMe.txt",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Behavioural Pattern\\Observer\\ReadMe.txt",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Behavioural Pattern\\Observer\\ReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-07T12:23:20.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Structural Pattern\\Proxy\\ReadMe.txt",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Structural Pattern\\Proxy\\ReadMe.txt",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Structural Pattern\\Proxy\\ReadMe.txt",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Structural Pattern\\Proxy\\ReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-06T09:08:11.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Creational Pattern\\FactoryMethod\\ClientCode\\NotificationService.cs",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Creational Pattern\\FactoryMethod\\ClientCode\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Creational Pattern\\FactoryMethod\\ClientCode\\NotificationService.cs",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Creational Pattern\\FactoryMethod\\ClientCode\\NotificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:57:45.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "SmsNotifierFactory.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Creational Pattern\\FactoryMethod\\SmsNotifierFactory.cs",
+              "RelativeDocumentMoniker": "SoftwareDesignPatterns\\Creational Pattern\\FactoryMethod\\SmsNotifierFactory.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\SoftwareDesignPatterns\\SoftwareDesignPatterns\\Creational Pattern\\FactoryMethod\\SmsNotifierFactory.cs",
+              "RelativeToolTip": "SoftwareDesignPatterns\\Creational Pattern\\FactoryMethod\\SmsNotifierFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:55:39.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 313,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

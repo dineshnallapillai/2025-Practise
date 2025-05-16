@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uV2vA7kQa/mRon2G71pJ4sMKziCG45F0yzswcLYgs0Q=",
+  "Source": "DiagnosticApi",
+  "BasePath": "_content/DiagnosticApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

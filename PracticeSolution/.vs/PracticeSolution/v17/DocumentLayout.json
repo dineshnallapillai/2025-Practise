@@ -1,0 +1,353 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|c:\\users\\310245646\\source\\repos\\practicesolution\\consoleapp6\\delegates \u0026 events\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|solutionrelative:consoleapp6\\delegates \u0026 events\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|c:\\users\\310245646\\source\\repos\\practicesolution\\consoleapp6\\delegates \u0026 events\\delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|solutionrelative:consoleapp6\\delegates \u0026 events\\delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|c:\\users\\310245646\\source\\repos\\practicesolution\\consoleapp6\\delegates \u0026 events\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|solutionrelative:consoleapp6\\delegates \u0026 events\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|c:\\users\\310245646\\source\\repos\\practicesolution\\consoleapp6\\hashingdictonarybased\\isomorphicstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|solutionrelative:consoleapp6\\hashingdictonarybased\\isomorphicstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|c:\\users\\310245646\\source\\repos\\practicesolution\\consoleapp6\\hashingdictonarybased\\longestconsecutivesequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|solutionrelative:consoleapp6\\hashingdictonarybased\\longestconsecutivesequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|c:\\users\\310245646\\source\\repos\\practicesolution\\consoleapp6\\hashingdictonarybased\\anagrams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|solutionrelative:consoleapp6\\hashingdictonarybased\\anagrams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|c:\\users\\310245646\\source\\repos\\practicesolution\\consoleapp6\\hashingdictonarybased\\subarraysumequalsk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|solutionrelative:consoleapp6\\hashingdictonarybased\\subarraysumequalsk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|c:\\users\\310245646\\source\\repos\\practicesolution\\consoleapp6\\twopointers\\movezeroes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|solutionrelative:consoleapp6\\twopointers\\movezeroes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|c:\\users\\310245646\\source\\repos\\practicesolution\\consoleapp6\\twopointers\\twosumsoreted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|solutionrelative:consoleapp6\\twopointers\\twosumsoreted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|c:\\users\\310245646\\source\\repos\\practicesolution\\consoleapp6\\slidingwindow\\longestsubstringkdistinct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|solutionrelative:consoleapp6\\slidingwindow\\longestsubstringkdistinct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|c:\\users\\310245646\\source\\repos\\practicesolution\\consoleapp6\\slidingwindow\\minsubarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|solutionrelative:consoleapp6\\slidingwindow\\minsubarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|c:\\users\\310245646\\source\\repos\\practicesolution\\consoleapp6\\slidingwindow\\longestsubstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|solutionrelative:consoleapp6\\slidingwindow\\longestsubstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|c:\\users\\310245646\\source\\repos\\practicesolution\\consoleapp6\\slidingwindow\\permuatationpalindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|solutionrelative:consoleapp6\\slidingwindow\\permuatationpalindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|c:\\users\\310245646\\source\\repos\\practicesolution\\consoleapp6\\slidingwindow\\slidingwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|solutionrelative:consoleapp6\\slidingwindow\\slidingwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|c:\\users\\310245646\\source\\repos\\practicesolution\\consoleapp6\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|solutionrelative:consoleapp6\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|c:\\users\\310245646\\source\\repos\\practicesolution\\consoleapp6\\binarysearch\\binarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|solutionrelative:consoleapp6\\binarysearch\\binarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|c:\\users\\310245646\\source\\repos\\practicesolution\\consoleapp6\\hashingdictonarybased\\validanagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|solutionrelative:consoleapp6\\hashingdictonarybased\\validanagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|c:\\users\\310245646\\source\\repos\\practicesolution\\consoleapp6\\hashingdictonarybased\\topkfrequent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|solutionrelative:consoleapp6\\hashingdictonarybased\\topkfrequent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|c:\\users\\310245646\\source\\repos\\practicesolution\\consoleapp6\\twopointers\\reversestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E0BC2E-72DA-4263-80C7-85CC339EBF58}|ConsoleApp6\\Practice.csproj|solutionrelative:consoleapp6\\twopointers\\reversestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Events.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\Delegates \u0026 Events\\Events.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\Delegates \u0026 Events\\Events.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\Delegates \u0026 Events\\Events.cs",
+              "RelativeToolTip": "ConsoleApp6\\Delegates \u0026 Events\\Events.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T06:37:21.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delegate.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\Delegates \u0026 Events\\Delegate.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\Delegates \u0026 Events\\Delegate.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\Delegates \u0026 Events\\Delegate.cs",
+              "RelativeToolTip": "ConsoleApp6\\Delegates \u0026 Events\\Delegate.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwBUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T06:26:56.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Readme.txt",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\Delegates \u0026 Events\\Readme.txt",
+              "RelativeDocumentMoniker": "ConsoleApp6\\Delegates \u0026 Events\\Readme.txt",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\Delegates \u0026 Events\\Readme.txt",
+              "RelativeToolTip": "ConsoleApp6\\Delegates \u0026 Events\\Readme.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-02T06:08:27.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SubarraySumEqualsK.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\HashingDictonaryBased\\SubarraySumEqualsK.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\HashingDictonaryBased\\SubarraySumEqualsK.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\HashingDictonaryBased\\SubarraySumEqualsK.cs",
+              "RelativeToolTip": "ConsoleApp6\\HashingDictonaryBased\\SubarraySumEqualsK.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T11:13:09.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Anagrams.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\HashingDictonaryBased\\Anagrams.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\HashingDictonaryBased\\Anagrams.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\HashingDictonaryBased\\Anagrams.cs",
+              "RelativeToolTip": "ConsoleApp6\\HashingDictonaryBased\\Anagrams.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:50:33.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LongestConsecutiveSequence.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\HashingDictonaryBased\\LongestConsecutiveSequence.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\HashingDictonaryBased\\LongestConsecutiveSequence.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\HashingDictonaryBased\\LongestConsecutiveSequence.cs",
+              "RelativeToolTip": "ConsoleApp6\\HashingDictonaryBased\\LongestConsecutiveSequence.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:31:20.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Isomorphicstring.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\HashingDictonaryBased\\Isomorphicstring.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\HashingDictonaryBased\\Isomorphicstring.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\HashingDictonaryBased\\Isomorphicstring.cs",
+              "RelativeToolTip": "ConsoleApp6\\HashingDictonaryBased\\Isomorphicstring.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:45:41.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MoveZeroes.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\TwoPointers\\MoveZeroes.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\TwoPointers\\MoveZeroes.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\TwoPointers\\MoveZeroes.cs",
+              "RelativeToolTip": "ConsoleApp6\\TwoPointers\\MoveZeroes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T16:59:11.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TwoSumSoreted.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\TwoPointers\\TwoSumSoreted.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\TwoPointers\\TwoSumSoreted.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\TwoPointers\\TwoSumSoreted.cs",
+              "RelativeToolTip": "ConsoleApp6\\TwoPointers\\TwoSumSoreted.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T16:52:38.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "longestsubstringKdistinct.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\SlidingWindow\\longestsubstringKdistinct.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\SlidingWindow\\longestsubstringKdistinct.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\SlidingWindow\\longestsubstringKdistinct.cs",
+              "RelativeToolTip": "ConsoleApp6\\SlidingWindow\\longestsubstringKdistinct.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T13:49:06.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MinSubArray.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\SlidingWindow\\MinSubArray.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\SlidingWindow\\MinSubArray.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\SlidingWindow\\MinSubArray.cs",
+              "RelativeToolTip": "ConsoleApp6\\SlidingWindow\\MinSubArray.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T13:04:11.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LongestSubstring.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\SlidingWindow\\LongestSubstring.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\SlidingWindow\\LongestSubstring.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\SlidingWindow\\LongestSubstring.cs",
+              "RelativeToolTip": "ConsoleApp6\\SlidingWindow\\LongestSubstring.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:45:43.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PermuatationPalindrome.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\SlidingWindow\\PermuatationPalindrome.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\SlidingWindow\\PermuatationPalindrome.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\SlidingWindow\\PermuatationPalindrome.cs",
+              "RelativeToolTip": "ConsoleApp6\\SlidingWindow\\PermuatationPalindrome.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T13:17:31.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SlidingWindow.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\SlidingWindow\\SlidingWindow.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\SlidingWindow\\SlidingWindow.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\SlidingWindow\\SlidingWindow.cs",
+              "RelativeToolTip": "ConsoleApp6\\SlidingWindow\\SlidingWindow.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:04:00.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Readme.txt",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\Readme.txt",
+              "RelativeDocumentMoniker": "ConsoleApp6\\Readme.txt",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\Readme.txt",
+              "RelativeToolTip": "ConsoleApp6\\Readme.txt",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAYwGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-01T16:31:25.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BinarySearch.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\BinarySearch\\BinarySearch.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\BinarySearch\\BinarySearch.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\BinarySearch\\BinarySearch.cs",
+              "RelativeToolTip": "ConsoleApp6\\BinarySearch\\BinarySearch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:27:50.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ValidAnagram.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\HashingDictonaryBased\\ValidAnagram.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\HashingDictonaryBased\\ValidAnagram.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\HashingDictonaryBased\\ValidAnagram.cs",
+              "RelativeToolTip": "ConsoleApp6\\HashingDictonaryBased\\ValidAnagram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:08:13.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TopKFrequent.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\HashingDictonaryBased\\TopKFrequent.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\HashingDictonaryBased\\TopKFrequent.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\HashingDictonaryBased\\TopKFrequent.cs",
+              "RelativeToolTip": "ConsoleApp6\\HashingDictonaryBased\\TopKFrequent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:08:29.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReverseString.cs",
+              "DocumentMoniker": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\TwoPointers\\ReverseString.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\TwoPointers\\ReverseString.cs",
+              "ToolTip": "C:\\Users\\310245646\\source\\repos\\PracticeSolution\\ConsoleApp6\\TwoPointers\\ReverseString.cs",
+              "RelativeToolTip": "ConsoleApp6\\TwoPointers\\ReverseString.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T16:43:04.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 313,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

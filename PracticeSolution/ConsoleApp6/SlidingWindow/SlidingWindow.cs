@@ -4,7 +4,7 @@ Given an array of integers and a number k, find the maximum sum of a subarray of
 Input: arr = [2, 1, 5, 1, 3, 2], k = 3
 Output: 9
 Explanation: Subarray[5, 1, 3] has the maximum sum = 9*/
-/*int MaxSumSubarray(int[] nums, int k)
+int MaxSumSubarray(int[] nums, int k)
 {
     if (nums.Length < k) return 0;
 

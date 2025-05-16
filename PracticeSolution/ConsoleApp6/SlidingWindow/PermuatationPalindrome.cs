@@ -13,7 +13,7 @@ At most one character has an odd count.*/
 
 using System.Reflection.Metadata;
 
-/*bool CanFormPalindrome(string str)
+bool CanFormPalindrome(string str)
 {
     Dictionary<char, int> charCount = new Dictionary<char, int>(); 
 
@@ -72,4 +72,4 @@ bool IsPalindrome(string str)
     }
 
     return true;
-}*/
+}

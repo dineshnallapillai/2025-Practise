@@ -6,7 +6,7 @@ Output: [1, 2]
 Explanation: 2 + 7 = 9*/
 
 
-/*int[] TwoSumSorted(int[] numbers, int target)
+int[] TwoSumSorted(int[] numbers, int target)
 {
     int left = 0, right = numbers.Length - 1;
 
@@ -24,7 +24,7 @@ Explanation: 2 + 7 = 9*/
 
     return Array.Empty<int>(); // no solution
 }
-*/
+
 
 /*Time: O(n) — single pass
 

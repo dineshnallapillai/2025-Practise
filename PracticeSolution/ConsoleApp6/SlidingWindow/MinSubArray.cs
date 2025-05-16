@@ -6,7 +6,7 @@
 Output: 2 → [4,3]Input: target = 7, nums = [2,3,1,2,4,3]  
 Output: 2 → [4,3]*/
 
-/*int MinSubArrayLen(int target, int[] nums)
+int MinSubArrayLen(int target, int[] nums)
 {
     int minLen = int.MaxValue, sum = 0, start = 0;
 
@@ -22,7 +22,7 @@ Output: 2 → [4,3]*/
     }
 
     return minLen == int.MaxValue ? 0 : minLen;
-}*/
+}
 
 
 /*Time: O(n)

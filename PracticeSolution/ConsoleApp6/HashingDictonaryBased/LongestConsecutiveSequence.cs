@@ -2,7 +2,7 @@
 Output: 4  
 Explanation: The longest consecutive sequence is [1, 2, 3, 4].*/
 
-/*int LongestConsecutive(int[] nums)
+int LongestConsecutive(int[] nums)
 {
     HashSet<int> result = new HashSet<int>(nums);
 
@@ -29,7 +29,7 @@ Explanation: The longest consecutive sequence is [1, 2, 3, 4].*/
 }
 
 int[] nums = { 100, 4, 200, 1, 3, 2 };
-int result = LongestConsecutive(nums);*/
+int result = LongestConsecutive(nums);
 
 /*Time: O(n)
 

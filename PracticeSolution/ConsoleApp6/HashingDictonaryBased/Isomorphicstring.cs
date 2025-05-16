@@ -4,7 +4,7 @@ Input: s = "paper", t = "title"  → Output: true */
 
 
 
-/*bool IsIsomorphic(string s, string t)
+bool IsIsomorphic(string s, string t)
 {
     if (s.Length != t.Length)
         return false;
@@ -28,7 +28,7 @@ Input: s = "paper", t = "title"  → Output: true */
         mapTS[c2] = c1;
     }
     return true;
-}*/
+}
 
 /*Time: O(n)
 

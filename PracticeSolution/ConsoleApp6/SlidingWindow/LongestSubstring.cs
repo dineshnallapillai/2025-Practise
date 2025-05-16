@@ -5,7 +5,7 @@ Input: "abcabcbb"
 Output: 3  
 Explanation: The longest substring is "abc" with length 3.*/
 
-/*int LongestSubstring(string s)
+int LongestSubstring(string s)
 {
     int n = s.Length;  
     int maxLength = 0;
@@ -27,7 +27,7 @@ Explanation: The longest substring is "abc" with length 3.*/
 
 int longerSubstring = LongestSubstring("abcabcbbxzyabcdefgabcdefghijk");
 
-Console.WriteLine(longerSubstring); */
+Console.WriteLine(longerSubstring); 
 
 /*Time: O(n)
 

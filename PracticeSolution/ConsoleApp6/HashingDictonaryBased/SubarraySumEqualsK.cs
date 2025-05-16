@@ -7,7 +7,7 @@ Output: 2
 Explanation: Subarrays[1, 1](twice) sum to 2*/
 
 
-/*int SubarraySum(int[] nums, int k)
+int SubarraySum(int[] nums, int k)
 {
     int count = 0;
     int sum = 0;
@@ -35,7 +35,7 @@ Explanation: Subarrays[1, 1](twice) sum to 2*/
 
     return count;
 }
-*/
+
 
 /*Time: O(n)
 

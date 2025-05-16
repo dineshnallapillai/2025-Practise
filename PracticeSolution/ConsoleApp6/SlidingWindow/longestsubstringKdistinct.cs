@@ -11,7 +11,7 @@ Output: 3 → "ece"*/
     Shrink the window when the dictionary exceeds k keys*/
 
 
-/*int LengthOfLongestSubstringKDistinct(string s, int k)
+int LengthOfLongestSubstringKDistinct(string s, int k)
 {
         if (k == 0 || s.Length == 0) return 0;
 
@@ -40,7 +40,7 @@ Output: 3 → "ece"*/
 }
 
 int result = LengthOfLongestSubstringKDistinct("eceba", 2);
-Console.WriteLine(result); */
+Console.WriteLine(result); 
 
 /*Time: O(n)
 

@@ -1,5 +1,5 @@
 ﻿
-/*int[] TopKFrequent(int[] nums, int k)
+int[] TopKFrequent(int[] nums, int k)
 {
     Dictionary<int, int> frequencyMap = new Dictionary<int, int>();
 
@@ -15,4 +15,4 @@
                                          .Take(k)
                                          .Select(pair => pair.Key)
                                          .ToArray();
-}*/
+}

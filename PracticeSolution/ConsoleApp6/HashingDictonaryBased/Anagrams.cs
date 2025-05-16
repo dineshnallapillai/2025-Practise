@@ -6,7 +6,7 @@ Output:
 ["bat"]
     ]*/
 
-/*IList<IList<string>> GroupAnagrams(string[] strs)
+IList<IList<string>> GroupAnagrams(string[] strs)
 {
     var map = new Dictionary<string, List<string>>();
 

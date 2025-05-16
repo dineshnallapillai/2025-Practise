@@ -4,7 +4,7 @@ relative order of the non-zero elements. */
 /*Input: [0, 1, 0, 3, 12]
 Output: [1, 3, 12, 0, 0]*/
 
-/*void MoveZeroes(int[] nums)
+void MoveZeroes(int[] nums)
 {
     int lastNonZeroIndex = 0;
 
@@ -23,7 +23,7 @@ Output: [1, 3, 12, 0, 0]*/
     {
         nums[i] = 0;
     }
-}*/
+}
 
 /*Time: O(n)
 

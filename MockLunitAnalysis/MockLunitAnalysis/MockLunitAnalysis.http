@@ -1,6 +1,0 @@
-@MockLunitAnalysis_HostAddress = http://localhost:5236
-
-GET {{MockLunitAnalysis_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

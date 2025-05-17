@@ -1,4 +1,6 @@
-﻿Provide a unified and simplified interface to a set of interfaces in a subsystem.
+# Facade Pattern
+
+Provide a unified and simplified interface to a set of interfaces in a subsystem.
 
 It hides the complexities of the system and provides an easier API for the client to use.
 

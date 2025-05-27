@@ -18,6 +18,7 @@ public class ProductsController : ControllerBase
     public IActionResult Get() => Ok("Products List");
 }
 
+```
 ---
 
 ## ✅ Action Method

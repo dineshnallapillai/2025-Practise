@@ -1,4 +1,4 @@
-# – .NET Web API Deep Dive (Part 3)
+# .NET Web API Deep Dive (Part 3)
 
 ---
 

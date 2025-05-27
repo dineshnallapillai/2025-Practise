@@ -30,6 +30,7 @@ public IActionResult Create([FromBody] ProductDto product)
     return Ok($"Created product: {product.Name}");
 }
 
+```
 ---
 
 

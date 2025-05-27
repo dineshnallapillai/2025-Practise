@@ -78,6 +78,7 @@ API Gateway is the **entry point** for all clients.
   ]
 }
 
+```
 ---
 
 

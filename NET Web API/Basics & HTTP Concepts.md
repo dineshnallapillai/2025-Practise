@@ -56,7 +56,7 @@ In ASP.NET Core:
 ```csharp
 services.AddControllers()
         .AddXmlSerializerFormatters(); // Adds support for XML
-
+```
 The server then returns application/json or application/xml depending on client request headers
 
 ---

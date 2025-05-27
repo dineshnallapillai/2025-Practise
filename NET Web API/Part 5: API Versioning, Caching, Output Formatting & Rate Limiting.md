@@ -22,6 +22,7 @@ API versioning is important for **backward compatibility** when APIs evolve over
 ```bash
 Install-Package Microsoft.AspNetCore.Mvc.Versioning
 
+```
 ---
 
 ## 🔹 Configure Versioning
@@ -37,7 +38,10 @@ services.AddApiVersioning(options =>
         new HeaderApiVersionReader("X-Version")
     );
 });
+
 ```
+
+---
 
 ## 🔹 Use in Controller
 

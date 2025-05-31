@@ -3,7 +3,7 @@
     void Display();
 }
 
-public class RealImage : IImage
+internal class RealImage : IImage
 {
     private readonly string _filename;
 

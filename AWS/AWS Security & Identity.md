@@ -258,4 +258,253 @@ Use **IAM policy condition** with `aws:MultiFactorAuthPresent`.
 }
 
 ```
+# AWS Security Specialty – Deep Dive  
+*(GuardDuty, Macie, Detective, Inspector, IAM Access Analyzer)*
+
+---
+
+## 🔐 Overview
+
+| Service         | Purpose                                   | Type          |
+|-----------------|-------------------------------------------|---------------|
+| **GuardDuty**     | Threat detection                         | Detection     |
+| **Macie**         | Sensitive data discovery (e.g., PII)     | Data Protection |
+| **Detective**     | Investigate incidents & trace root cause | Investigation |
+| **Inspector**    | Automated vulnerability assessment        | Assessment    |
+| **Access Analyzer** | Analyze IAM & resource access paths       | Access Visibility |
+
+---
+
+## 1. Amazon GuardDuty
+
+### ✅ Purpose  
+Continuous monitoring to detect malicious behavior and unauthorized activity in AWS accounts, workloads, and data.
+
+### ✅ Key Features
+
+| Feature          | Description                                    |
+|------------------|------------------------------------------------|
+| Threat detection | Analyzes logs from VPC Flow, DNS, CloudTrail  |
+| No agents required | Fully managed & agentless                      |
+| Findings        | Includes severity, resource, recommendation    |
+| S3 Protection    | Alerts on suspicious access to S3 data          |
+| Malware Protection | Analyzes EBS volumes (optional)                |
+
+### ✅ Example Detections
+
+- SSH brute force to EC2  
+- Credential exfiltration (API key abuse)  
+- Crypto mining behavior  
+- Suspicious S3 API calls  
+
+### ✅ Integrations
+
+- EventBridge – Auto remediation via Lambda  
+- Security Hub – Centralized visibility  
+
+### ✅ Interview Tips
+
+- Real-time & agentless  
+- Covers EC2, EKS, Lambda, S3, IAM, etc.  
+- Use to reduce detection time during breaches  
+
+---
+
+## 2. Amazon Macie
+
+### ✅ Purpose  
+Discover and protect sensitive data (PII, PHI, secrets) in S3 buckets.
+
+### ✅ Key Features
+
+| Feature          | Description                               |
+|------------------|-------------------------------------------|
+| PII detection    | Detect names, emails, credit cards, etc.  |
+| Fully managed   | No need to write regex or patterns          |
+| Data classification | Uses ML to label objects (low, medium, high risk) |
+| Alerts           | When sensitive data is exposed or publicly accessible |
+
+### ✅ Common Use Cases
+
+- Identify unencrypted PII data in S3  
+- Detect overly permissive access  
+- Compliance audits (HIPAA, GDPR)  
+
+### ✅ Interview Tips
+
+- Only supports S3  
+- Macie uses KMS for encryption  
+- Outputs go to CloudWatch, EventBridge, Security Hub  
+
+---
+
+## 3. Amazon Detective
+
+### ✅ Purpose  
+Helps investigate security findings across accounts using graphs & relationship links.
+
+### ✅ Data Sources
+
+- VPC Flow Logs  
+- CloudTrail  
+- GuardDuty findings  
+- IAM events  
+
+### ✅ Features
+
+| Feature           | Description                                       |
+|-------------------|--------------------------------------------------|
+| Behavior graphs   | Visualize activity over time per entity            |
+| Entity-based views | Investigate EC2, users, IPs, roles                 |
+| Linked events     | Automatically correlates findings (user → EC2 → API call) |
+| No manual log parsing | Removes need to deep-dive raw logs              |
+
+### ✅ Interview Tips
+
+- Detective does not prevent threats – it helps analyze  
+- Can be used post-breach to understand lateral movement  
+- Integrates with GuardDuty and Security Hub  
+
+---
+
+## 4. Amazon Inspector
+
+### ✅ Purpose  
+Perform automated vulnerability scanning for EC2, ECR, Lambda functions.
+
+### ✅ Key Capabilities
+
+| Capability        | Description                                    |
+|-------------------|------------------------------------------------|
+| EC2 scanning     | Looks for CVEs, misconfigurations               |
+| ECR scanning     | Scans container images on push                   |
+| Lambda scanning  | Analyzes function packages for issues           |
+| OS & App CVEs    | CVE-based detection (CVSS scoring)               |
+| Agentless (v2)   | No longer requires SSM agent in Inspector v2    |
+
+### ✅ Common Findings
+
+- Unpatched packages  
+- Open ports  
+- Privilege escalation risks  
+
+### ✅ Interview Tips
+
+- Replaces manual scanning tools  
+- Fully integrates with AWS Organizations  
+- Inspector v2 supports continuous scanning  
+- Uses EventBridge for remediation flows  
+
+---
+
+## 5. IAM Access Analyzer
+
+### ✅ Purpose  
+Helps identify unintended resource access and validate least privilege policies.
+
+### ✅ Use Cases
+
+| Use Case              | Description                                  |
+|-----------------------|----------------------------------------------|
+| Policy validation      | Detects unused permissions                    |
+| Cross-account access analysis | Who can access a resource externally   |
+| Access preview        | What happens if a policy is applied           |
+| Auto-analyze on save  | Optional feature to validate new IAM/S3/KMS/Lambda policies |
+
+### ✅ Supported Resources
+
+- S3  
+- KMS  
+- Lambda  
+- IAM Roles  
+- SQS, Secrets Manager  
+
+### ✅ Interview Tips
+
+- Does not prevent access — only analyzes it  
+- Can automatically scan policies when saved (optional)  
+- Helps enforce least privilege  
+
+---
+
+## 📊 Comparison Table
+
+| Feature               | GuardDuty          | Macie             | Detective         | Inspector        | Access Analyzer  |
+|-----------------------|--------------------|-------------------|-------------------|------------------|------------------|
+| Detection Type        | Threats & attacks  | Sensitive data    | Root-cause tracing | Vulnerabilities  | Access risks     |
+| Works on              | Logs (CloudTrail, DNS) | S3 only           | All security logs | EC2, ECR, Lambda | IAM + Resource   |
+| Agentless?            | ✅                 | ✅                | ✅                | ✅ (v2)          | ✅               |
+| Cost Model            | Per GB logs        | Per GB scanned    | Based on logs     | Per scan/resource| Free             |
+| Preventive or Reactive? | Reactive          | Preventive        | Reactive          | Preventive       | Preventive       |
+| Integrates with Security Hub? | ✅          | ✅                | ✅                | ✅               | ✅               |
+
+---
+
+## 🔐 Security Best Practices
+
+- ✅ Enable GuardDuty on all accounts via AWS Organizations  
+- ✅ Use Macie for regulated S3 datasets (HIPAA, GDPR)  
+- ✅ Schedule Inspector scans for EC2/ECR on deployment  
+- ✅ Enforce least privilege with Access Analyzer  
+- ✅ Route all findings to AWS Security Hub  
+- ✅ Set up automated remediation using EventBridge + Lambda  
+
+---
+
+# AWS Security Specialty – Key Questions
+
+---
+
+## 1. What's the difference between GuardDuty and Inspector?
+
+| Aspect              | GuardDuty                              | Inspector                                  |
+|---------------------|--------------------------------------|--------------------------------------------|
+| Purpose             | Threat detection & continuous monitoring for suspicious activity | Automated vulnerability assessment & scanning of EC2, ECR, Lambda |
+| Data Sources        | Analyzes logs: VPC Flow, DNS, CloudTrail | Scans OS, application vulnerabilities, CVEs, misconfigurations |
+| Agent Requirement   | Agentless, fully managed              | Agentless (Inspector v2), but targets specific resources |
+| Reactive or Preventive | Reactive (detects attacks/behavior) | Preventive (identifies vulnerabilities before exploitation) |
+| Integration         | EventBridge, Security Hub             | EventBridge, Security Hub                   |
+
+---
+
+## 2. How do you detect exposed PII in AWS?
+
+- Use **Amazon Macie** to scan S3 buckets for sensitive data (PII, PHI, secrets).  
+- Macie uses ML to automatically classify and detect exposed or publicly accessible PII.  
+- Set up alerts and reports for compliance and remediation.  
+- Integrate Macie findings with CloudWatch, EventBridge, or Security Hub for automated response.
+
+---
+
+## 3. How would you investigate a suspicious API call?
+
+- Start with **Amazon GuardDuty** findings to detect suspicious activity.  
+- Use **Amazon Detective** to investigate by visualizing relationships, behavior graphs, and linked events.  
+- Correlate API call logs with CloudTrail events, VPC Flow Logs, and IAM logs for context.  
+- Identify entities involved (users, roles, IP addresses) and trace lateral movement or impact.  
+- Use Detective’s entity-based views to follow the activity timeline without manual log parsing.
+
+---
+
+## 4. How to ensure IAM roles/policies don’t over-provision access?
+
+- Use **IAM Access Analyzer** to validate IAM roles and policies for least privilege.  
+- Review access previews to understand what permissions policies grant.  
+- Detect unused or excessive permissions with Access Analyzer reports.  
+- Implement a policy review process and automate scans on policy changes.  
+- Enforce MFA and use resource-based policies to tighten access scope.  
+
+---
+
+## 5. When would you use Detective vs CloudTrail analysis manually?
+
+| Criteria                      | Amazon Detective                            | Manual CloudTrail Analysis                     |
+|-------------------------------|--------------------------------------------|-----------------------------------------------|
+| Use Case                     | Complex incident investigation & root cause analysis | Ad-hoc or simple queries on logs                |
+| Ease of Use                  | Visual graphs, entity linking, automatic correlation | Raw logs parsing, manual correlation             |
+| Time Efficiency             | Faster to find lateral movement & relationships | Time-consuming, error-prone                      |
+| Integration                 | Works with GuardDuty, Security Hub for streamlined workflow | Requires manual setup or additional tooling     |
+| Skill Level Required        | Lower for complex investigations           | Higher expertise for deep log queries            |
+
+---
 

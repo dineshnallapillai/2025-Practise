@@ -46,7 +46,7 @@ A JSON document that defines:
 |-------------------------|-----------------------------------------------------------|
 | **Identity-Based Policy**   | Attached to users, groups, or roles                   |
 | **Resource-Based Policy**   | Attached directly to resources (e.g., S3 bucket policy)|
-| **Permissions Boundary**    | Restricts max permissions a user/role can get         |
+| **Permissions Boundary**    | Restricts max permissions a user/role can get  (Individual Acccount)       |
 | **Service Control Policy (SCP)** | Org-level restriction across accounts (via AWS Organizations) |
 | **Session Policies**        | Applied when assuming a role (temporary credentials)  |
 

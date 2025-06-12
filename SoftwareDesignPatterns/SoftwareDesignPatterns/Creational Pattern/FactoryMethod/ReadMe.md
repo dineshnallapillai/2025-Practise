@@ -1,6 +1,7 @@
 # Factory Method Pattern
 
-Define an interface for creating an object, but let subclasses decide which class to instantiate.
+The Factory Method Pattern is a Creational Design Pattern used to create objects without exposing the instantiation logic to the client. Instead, the object creation logic is abstracted in a factory method.
+
 
 ## Problem It Solves
 

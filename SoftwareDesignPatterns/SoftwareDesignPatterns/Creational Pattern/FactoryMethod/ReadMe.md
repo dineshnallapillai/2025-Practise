@@ -7,3 +7,20 @@ The Factory Method Pattern is a Creational Design Pattern used to create objects
 
 You have a base class (or interface) and want to allow subclasses to decide which specific object gets created without  
 modifying client code.
+
+```csharp
+
+public static class ShapeFactory
+{
+    public static IShape GetShape(string shapeType)
+    {
+        switch (shapeType.ToLower())
+        {
+            case "circle": return new Circle();
+            case "square": return new Square();
+            default: throw new ArgumentException("Invalid shape type");
+        }
+    }
+}
+
+```
